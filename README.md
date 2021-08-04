@@ -2,7 +2,8 @@
 Super translator bot on Telegram.
 
 All bot files in "Bot" directory.
-main files ---> Bot/main.py
+
+Main files ---> Bot/main.py
 
 _________________________________________________________
 
