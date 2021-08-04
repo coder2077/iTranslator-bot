@@ -1,8 +1,7 @@
 <h1># @iTarjimonBot</h1>
 Super translator bot on Telegram.
 
-All bot files in "Bot" directory.
-
+All bot files in "Bot" directory. 
 Main files ---> Bot/main.py
 
 _________________________________________________________
