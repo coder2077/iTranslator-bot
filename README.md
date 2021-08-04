@@ -9,3 +9,8 @@ _________________________________________________________
 If you like my code, please press star!
 
 Share bot and repo!
+
+
+Bot link: <a href="https://t.me/iTarjimonBot">@iTarjimonBot</a>
+
+Author: <a href="https://t.me/coder2077">@coder2077</a>
