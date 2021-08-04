@@ -1,2 +1,2 @@
-<h2># @iTarjimonBot</h2>
+<h1># @iTarjimonBot</h1>
 
