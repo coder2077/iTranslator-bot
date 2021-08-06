@@ -182,6 +182,10 @@ def response(message):
 
 	elif message.content_type == 'photo':
 		text = message.caption
+		if text:
+			text = message.caption
+		else:
+			text = '@coder2077'
 	
 	# Save a text to db
 	cursor.execute('UPDATE users SET result = (?) WHERE user_id = (?)', (text, chat_id,))
