@@ -30,5 +30,5 @@ If you have found a bug, create an issue.
 <br/>
 If you like my code, please press star and share repo!<br/>
 
-Official Bot: <a href="https://t.me/iTarjimonBot">@iTarjimonBot</a>
+Official Bot: <a href="https://t.me/iTarjimonBot">@iTarjimonBot</a><br/>
 Contact(Telegram): <a href="https://t.me/coder2077">@coder2077</a>
