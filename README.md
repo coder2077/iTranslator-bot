@@ -1,7 +1,6 @@
 <h1>iTranslator-bot</h1>
 
 <p>Super google translator bot using pyTelegramBotAPI</p>
-<br/>
 <p>A bot is a professional bot that automatically detects a language in texts or captions and translates it into the selected language.</p>
 <p>It can sends pronunciation of result as ".mp3" file.</p>
 <br/>
