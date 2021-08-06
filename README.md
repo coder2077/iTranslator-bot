@@ -16,6 +16,7 @@
 <b>Running the bot:</b>
 <ul>
     <li>Install packages in "requirements.txt" file</li>
+    <li>Set your bot token to Bot/config.py </li>
     <li>Run Bot/main.py file</li>
     <li>Main file ---> Bot/main.py</li>
 </ul>
