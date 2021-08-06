@@ -25,7 +25,7 @@
     <li>Detecting text in photo and translate it.</li>
 </ul>
 
-<b>Issues</b><br/>
+<br/>
 If you have found a bug, create an issue.
 <br/>
 If you like my code, please press star and share repo!<br/>
